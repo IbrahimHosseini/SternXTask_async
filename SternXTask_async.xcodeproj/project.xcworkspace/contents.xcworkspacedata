@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:">
+      location = "self:/Users/ebrahim/Desktop/SternXTask_async/SternXTask_async.xcodeproj">
    </FileRef>
 </Workspace>
