@@ -17,7 +17,7 @@
                BlueprintIdentifier = "0334E3CE2B73F789001BA1E8"
                BuildableName = "SternXTask_async.app"
                BlueprintName = "SternXTask_async"
-               ReferencedContainer = "container:SternXTask_Async.xcodeproj">
+               ReferencedContainer = "container:SternXTask_async.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -37,7 +37,7 @@
                BlueprintIdentifier = "03E3F4B12B7643460066C60E"
                BuildableName = "SternXTask_asyncTests.xctest"
                BlueprintName = "SternXTask_asyncTests"
-               ReferencedContainer = "container:SternXTask_Async.xcodeproj">
+               ReferencedContainer = "container:SternXTask_async.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -59,7 +59,7 @@
             BlueprintIdentifier = "0334E3CE2B73F789001BA1E8"
             BuildableName = "SternXTask_async.app"
             BlueprintName = "SternXTask_async"
-            ReferencedContainer = "container:SternXTask_Async.xcodeproj">
+            ReferencedContainer = "container:SternXTask_async.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -76,7 +76,7 @@
             BlueprintIdentifier = "0334E3CE2B73F789001BA1E8"
             BuildableName = "SternXTask_async.app"
             BlueprintName = "SternXTask_async"
-            ReferencedContainer = "container:SternXTask_Async.xcodeproj">
+            ReferencedContainer = "container:SternXTask_async.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
